@@ -1,0 +1,7 @@
+(+ 3 (+ 1 2))
+
+(setq my-name "Bastien")
+
+(insert "Bonjour, je m'appelle " my-name ".") ; => Bonjour, je m'appelle Bastien.
+
+(defun )
